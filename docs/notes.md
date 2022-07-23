@@ -24,3 +24,6 @@
 
 # Create SSH command
 `ssh-keygen -t rsa -b 4096 -C <your email>`
+
+# Add SSH key
+`ssh-add <key file>`
